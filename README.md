@@ -27,4 +27,6 @@ It will show you a complete list of all the books that you've reviewed. Also, as
 <br />
 <img width="922" alt="image" src="https://user-images.githubusercontent.com/99210028/167208612-d4faa2eb-1f13-4407-a1eb-d8671a6f1a74.png">  
 <br />
-And that's The Book Logger! Enjoy!
+And that's The Book Logger! Enjoy!  
+<br />
+Video pitch: https://brandeis.zoom.us/rec/share/OS99vL8VFppQTQpN6Cb1HNyOV0A3Qft9BfoqFvddZWAEU96JZ2gGJX_MexRDG68H.xcjJXxCk9UTTAR9q?startTime=1651870297000
