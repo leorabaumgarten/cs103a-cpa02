@@ -1,1 +1,1 @@
-# cs103a-cpa02
+For my CPA02, the webapp I create is called The Book Logger. You can use it to keep track of each book you read, including its title, author, genre, a short description, and the rating you would give it. You can also look through other users' book logs, with options to search by title, author, genre, and rating.
