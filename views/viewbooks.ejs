@@ -1,0 +1,12 @@
+<hr>
+<h2 class="mt-2">Books in search %> </h2>
+<div class="d-flex">
+    <% for (book of allbooks) {%>
+        <div class="p-3 m-3 border border-primary bg-light">
+            <%= book.username %>'s review of        
+            <em><%= book.title %></em> by <%= book.author %>: <%= book.rating %>/5<br>
+            Genre: <%= book.genre %><br>
+            Description: "<%= book.description %>"
+        </div>
+    <% }%>
+</div>
