@@ -1,6 +1,6 @@
 For my CPA02, the webapp I created is called The Book Logger. You can use it to keep track of each book you read, including its title, author, genre, a short description, and the rating you would give it. You can also look through other users' book logs, with options to search by title, author, genre, and rating.  
 # Running the app  
-You can use the app online at its heroku site (https://the-book-logger.herokuapp.com/). If you want to run the app locally, you'll need a MongoDB cloud server. Download the source code from github, create a startup.ps1 file in which you set $Env:mongodb_URI equal to the MongoDB server, and include "npm start". Then you can run the app by executing .\startup.ps1 in your terminal.    
+You can use the app online at its heroku site (https://the-book-logger.herokuapp.com/). If you want to run the app locally, you'll need a MongoDB cloud server. Download the source code from github, create a startup.ps1 file in which you set $Env:mongodb_URI equal to your MongoDB server, and include "npm start". Then you can run the app by executing .\startup.ps1 in your terminal.    
   
 # Using the app  
 When you start the app, you'll be directed to the homepage.  
