@@ -1,1 +1,2 @@
 For my CPA02, the webapp I create is called The Book Logger. You can use it to keep track of each book you read, including its title, author, genre, a short description, and the rating you would give it. You can also look through other users' book logs, with options to search by title, author, genre, and rating.
+You can use the app online at its heroku site, or download the source code from github and run .\startup.ps1 in your terminal.
