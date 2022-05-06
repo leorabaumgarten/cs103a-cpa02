@@ -5,9 +5,10 @@ You can use the app online at its heroku site, or download the source code from 
 # Using the app  
 When you start the app, you'll be directed to the homepage.  
 <br />
-<img width="937" alt="image" src="https://user-images.githubusercontent.com/99210028/167206951-f2226a6d-5e8a-41ac-9912-3daba4c248fb.png"> 
+<img width="937" alt="image" src="https://user-images.githubusercontent.com/99210028/167206951-f2226a6d-5e8a-41ac-9912-3daba4c248fb.png">  
 <br />
 From this page, you can use any of the search forms to view book logs. For example, selecting "Fantasy" in the search by genre form brings you to the following page:  
+<br />
 <img width="929" alt="image" src="https://user-images.githubusercontent.com/99210028/167207388-3d3eb732-b791-43d0-852d-5309a813ae0a.png">  
 <br />
 As users continue to log, the searches will show more and more books.  
